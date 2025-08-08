@@ -1,7 +1,7 @@
 <!-- banner -->
 <p align="center">
   
-  <img src="banner.jpg" alt="Banner" width="100%">
+  <img src="banner.jpg" alt="Banner" width="150" style="border-radius: 50%;">
 
 </p>
 
