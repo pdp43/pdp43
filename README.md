@@ -1,6 +1,8 @@
 <!-- banner -->
 <p align="center">
-  <img src="https://i.ibb.co.com/qLZZ2Ppw/banner.jpg" alt="banner" width="100%"/>
+  
+  <img src="assets/banner.png" alt="Banner" width="100%">
+
 </p>
 
 # Hi, I’m Proyash Das 👋
