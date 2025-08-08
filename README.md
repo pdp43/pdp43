@@ -1,18 +1,18 @@
 <!-- banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/assets/banner.jpg" alt="banner" width="100%"/>
+  <img src="https://i.ibb.co.com/qLZZ2Ppw/banner.jpg" alt="banner" width="100%"/>
 </p>
 
-# Hi, I’m NAME 👋
-### ROLE (e.g., Frontend Developer)
+# Hi, I’m Proyash Das 👋
+### MERN stack Developer
 
 **About Me**
-I’m a Frontend Developer with a focus on building responsive and accessible web apps. I enjoy turning designs into pixel-perfect experiences and learning about modern frameworks like Next.js.
+I’m a MERN stack Developer (frontend focus) with a focus on building responsive and accessible web apps. I enjoy turning designs into pixel-perfect experiences and learning about modern frameworks like Next.js.
 
 **Current Activities**
 - 🔭 Exploring Next.js and Server Components
-- 💻 Building a tourism website with React + Tailwind
-- 📚 Studying advanced JavaScript patterns
+- 💻 Building a Forum website with React + Tailwind
+- 📚 Studying NLP
 
 ---
 
@@ -34,14 +34,14 @@ I’m a Frontend Developer with a focus on building responsive and accessible we
 ---
 
 ### 🔗 Links
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&style=for-the-badge)](https://github.com/USERNAME)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/YOURPROFILE)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&style=for-the-badge)](https://twitter.com/YOURHANDLE)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&style=for-the-badge)](https://github.com/pdp43)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/proyash-das-bb667b267)
+
 
 ---
 
 ### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pdp43&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdp43&layout=compact)
 
 ---
